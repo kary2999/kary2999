@@ -66,10 +66,3 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-4A154B?style=for-the-badge&logoColor=white" />
 </p>
-
-## 📊 GitHub 数据
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kary2999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=cn" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kary2999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=cn" />
-</p>
