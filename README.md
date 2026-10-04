@@ -1,15 +1,15 @@
 <h1 align="center">你好 👋，我是 Leon</h1>
 
 <p align="center">
-  <a href="https://leon-book.github.io"><img src="https://img.shields.io/badge/博客-ikarp.top-4285F4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:axon90000@gmail.com"><img src="https://img.shields.io/badge/邮箱-karp90000-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://leon-book.github.io"><img src="https://img.shields.io/badge/博客-leon--book.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:axon90000@gmail.com"><img src="https://img.shields.io/badge/邮箱-Leon-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=kary2999&label=主页访问&color=0e75b6&style=flat-square" />
 </p>
 
-- 💹 深耕**加密交易所**多年，熟悉合约 / 现货 / 撮合 / 清结算 / 行情 / 风控全链路业务
-- 📈 主导做市策略从 **-10 万 USDT → +200 万 USDT**，用 6 个月把亏损做成盈利 —— 我更关心**结果**
-- 🧩 技术底子扎实，能和研发同频对话，把模糊需求拆成能落地的方案
-- ✍️ 在 [leon-book.github.io](https://leon-book.github.io) 持续输出 **866 篇**文章**
+- 💹 关注**加密交易所、金融科技与 AI 工具实践**
+- 🧩 具备交易系统与产品落地经验，熟悉现货 / 合约 / 撮合 / 清结算 / 行情 / 风控业务
+- ✍️ 持续记录技术实践、产品思考与行业调研
+- 🌐 博客：[leon-book.github.io](https://leon-book.github.io)
 
 ## 🛠️ 技能树
 
