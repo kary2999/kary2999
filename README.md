@@ -1,7 +1,7 @@
 <h1 align="center">你好 👋，我是 Leon</h1>
 
 <p align="center">
-  <a href="https://leon-book.github.io"><img src="https://img.shields.io/badge/博客-leon--book.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.tago.top"><img src="https://img.shields.io/badge/博客-leon--book.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:axon90000@gmail.com"><img src="https://img.shields.io/badge/邮箱-Leon-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=kary2999&label=主页访问&color=0e75b6&style=flat-square" />
 </p>
@@ -9,7 +9,7 @@
 - 💹 关注**加密交易所、金融科技与 AI 工具实践**
 - 🧩 具备交易系统与产品落地经验，熟悉现货 / 合约 / 撮合 / 清算 / 行情 / U卡
 - ✍️ 持续记录技术实践、产品思考与行业调研
-- 🌐 博客：[leon-book.github.io](https://leon-book.github.io)
+- 🌐 博客：[www.tago.top](https://www.tago.top)
 
 ## 🛠️ 技能树
 
