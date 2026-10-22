@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.tago.top"><img src="https://img.shields.io/badge/博客-tago.top-4285F4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:axon90000@gmail.com"><img src="https://img.shields.io/badge/邮箱-Leon-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:axon90000@gmail.com"><img src="https://img.shields.io/badge/邮箱-Lee-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=kary2999&label=主页访问&color=0e75b6&style=flat-square" />
 </p>
 
