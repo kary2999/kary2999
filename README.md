@@ -1,17 +1,67 @@
-
-<h1 align="center">你好，我是 Lee</h1>
+<h1 align="center">你好 👋，我是 Lee </h1>
 
 <p align="center">
-  <a href="https://www.tago.top">Tago · 开发手记</a>
-  ·
-  <a href="mailto:axon90000@gmail.com">邮箱</a>
+  <a href="https://www.tago.top"><img src="https://img.shields.io/badge/博客-tago.top-4285F4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:axon90000@gmail.com"><img src="https://img.shields.io/badge/邮箱-Lee-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=kary2999&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=0e75b6&style=flat-square" /></a>  
 </p>
 
-这些年，我在游戏、教育、社交和金融交易相关业务里工作过，也参与过加密交易所系统的建设。做过现货、合约、行情、撮合、清结算、跟单和风控相关的开发与维护。
+- 💹 关注**加密交易所、金融科技与 AI 工具实践**
+- 🧩 具备交易系统与产品落地经验，熟悉现货 / 合约 / 撮合 / 清算 / 行情 / U卡
+- ✍️ 持续记录技术实践、产品思考与行业调研
+- 🌐 博客：[www.tago.top](https://www.tago.top)
 
-最近，我在学习怎么当一名产品经理，给自己补课，也在整理和完善一个个人项目。
+## 🛠️ 技能树
 
-我计划用 2026 年剩下的时间，把它做成一个成本可控、方便继续扩展的项目，为过去一段工作收尾，也去做自己真正想做的事。张雪让我想到，答应过自己的事，还是要亲手做出来；我也想把以前吹过的牛兑现。
+### 📝 编程语言
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,js,bash,php" />
+</p>
 
-我会在博客里继续记录做过的事、正在学的东西和项目进展。
+### ⚙️ 后端 & 框架
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nginx" />&nbsp;
+  <img src="https://img.shields.io/badge/Swoole-4A90D9?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supervisor-2C3E50?style=for-the-badge&logoColor=white" />
+</p>
 
+### 🗄️ 数据库
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />&nbsp;
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/TiDB-DA1C2D?style=for-the-badge&logo=pingcap&logoColor=white" />
+</p>
+
+### 📨 消息队列
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />&nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=for-the-badge&logo=apachepulsar&logoColor=white" />
+</p>
+
+### 🌐 网络协议
+<p>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTTP%2F3-005571?style=for-the-badge&logo=http3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+</p>
+
+### 🔐 安全
+<p>
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AES%20/%20RSA-4B4B4B?style=for-the-badge&logoColor=white" />
+</p>
+
+### ☁️ DevOps & 工具
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,vim,vscode" />
+</p>
+
+### 🤖 AI 开发
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-4A154B?style=for-the-badge&logoColor=white" />
+</p>
