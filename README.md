@@ -21,21 +21,21 @@
 ### ⚙️ 后端 & 框架
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nginx" alt="Node.js、NGINX" />&nbsp;
-  <img src="https://img.shields.io/badge/Swoole-4A90D9?style=for-the-badge&logo=php&logoColor=white" alt="Swoole" />
-  <img src="https://img.shields.io/badge/Supervisor-2C3E50?style=for-the-badge&logo=linux&logoColor=white" alt="Supervisor" />
+  <img src="./assets/icons/swoole.png" width="48" height="48" alt="Swoole" title="Swoole" />
+  <img src="./assets/icons/supervisor.png" width="48" height="48" alt="Supervisor" title="Supervisor" />
 </p>
 
 ### 🗄️ 数据库
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="MySQL、PostgreSQL、MongoDB、Redis" />&nbsp;
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
-  <img src="https://img.shields.io/badge/TiDB-DA1C2D?style=for-the-badge&logo=pingcap&logoColor=white" alt="TiDB" />
+  <img src="./assets/icons/tidb.png" width="48" height="48" alt="TiDB" title="TiDB" />
 </p>
 
 ### 📨 消息队列
 <p>
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" alt="Apache Kafka、RabbitMQ" />&nbsp;
-  <img src="https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=for-the-badge&logo=apachepulsar&logoColor=white" alt="Apache Pulsar" />
+  <img src="./assets/icons/pulsar.png" width="48" height="48" alt="Apache Pulsar" title="Apache Pulsar" />
 </p>
 
 ### 🌐 网络协议
