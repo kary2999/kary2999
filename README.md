@@ -28,8 +28,8 @@
 ### 🗄️ 数据库
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="MySQL、PostgreSQL、MongoDB、Redis" />&nbsp;
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
   <img src="./assets/icons/tidb.png" width="48" height="48" alt="TiDB" title="TiDB" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
 </p>
 
 ### 📨 消息队列
